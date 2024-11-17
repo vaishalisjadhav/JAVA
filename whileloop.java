@@ -8,7 +8,7 @@ public class whileloop {
 
 		while(i<5){
 			System.out.println("Namaste");
-			i++
+			i++;
 		}
 	}
 }
